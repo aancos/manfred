@@ -1,0 +1,64 @@
+{
+  "$schema": "https://raw.githubusercontent.com/getmanfred/mac/v0.3/schema/schema.json",
+  "settings": {
+    "language": "EN",
+    "MACVersion": "0.3"
+  },
+  "aboutMe": {
+    "profile": {
+      "name": "Antonio",
+      "surnames": "de Ancos Cid 😷",
+      "title": "Consultor SAP",
+      "description": "Aprendiz continuo y maestro \"ocasional\". Te cuento lo que necesitas saber, de un modo más directo, sin florituras ni \"palabros\" raros.",
+      "avatar": {
+        "alt": "AAncos.jpg",
+        "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/03/26/2225541a-5a67-4172-a8bc-06e2846ad5ca_aancos.jpg"
+      },
+      "location": {
+        "notes": "Madrid"
+      }
+    },
+    "relevantLinks": [
+      {
+        "type": "linkedin",
+        "URL": "https://www.linkedin.com/in/aancos/"
+      },
+      {
+        "type": "github",
+        "URL": "https://github.com/aancos"
+      },
+      {
+        "type": "twitter",
+        "URL": "https://twitter.com/aancos"
+      },
+      {
+        "type": "other",
+        "URL": "https://aancos.com/"
+      }
+    ],
+    "interestingFacts": [
+      {
+        "topic": "Te cuento mis aventuras en el mundo de la consultoría",
+        "fact": "Memorias de un Consultor: https://www.memoriasdeunconsultor.com/"
+      }
+    ]
+  },
+  "careerPreferences": {
+    "contact": {
+      "publicProfiles": [
+        {
+          "type": "linkedin",
+          "URL": "https://www.linkedin.com/in/aancos/"
+        }
+      ]
+    },
+    "preferences": {
+      "preferredCompetences": [
+        {
+          "name": "SAP",
+          "type": "technology"
+        }
+      ]
+    }
+  }
+}
