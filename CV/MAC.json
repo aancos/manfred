@@ -39,6 +39,12 @@
     ]
   },
   "knowledge": {
+    "languages": [
+      {
+        "name": "Español",
+        "level": "Native or bilingual proficiency"
+      }
+    ],
     "hardSkills": [
       {
         "skill": {
@@ -108,6 +114,12 @@
     "status": "notAvailable"
   },
   "manfredSpecificData": {
+    "mainStackTechs": [
+      {
+        "name": "SAP",
+        "type": "technology"
+      }
+    ],
     "desiredJobDescription": "Me gusta rodearme de gente que sabe lo suficiente para poder enseñar a los demás y que es consciente de que puede aprender de otros.",
     "goodPractices": "Aprendo y enseño desde hace más de 20 años."
   }
