@@ -1,7 +1,7 @@
 {
   "$schema": "https://raw.githubusercontent.com/getmanfred/mac/v0.3/schema/schema.json",
   "settings": {
-    "language": "EN",
+    "language": "ES",
     "MACVersion": "0.3"
   },
   "aboutMe": {
@@ -11,26 +11,23 @@
       "title": "Consultor SAP",
       "description": "Aprendiz continuo y maestro \"ocasional\". Te cuento lo que necesitas saber, de un modo más directo, sin florituras ni \"palabros\" raros.",
       "avatar": {
-        "alt": "AAncos.jpg",
-        "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/03/31/78ab0f9d-206e-423f-8e30-94e443824abd_40d6d497-b121-4b09-8.jpg"
+        "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/03/31/78ab0f9d-206e-423f-8e30-94e443824abd_40d6d497-b121-4b09-8.jpg",
+        "alt": "AAncos.jpg"
       },
       "location": {
-        "notes": "Madrid"
+        "notes": "Autocompleted using Google Maps API (id: ChIJgTwKgJcpQg0RaSKMYcHeNsQ)",
+        "country": "España",
+        "region": "Comunidad de Madrid",
+        "municipality": "Madrid"
       }
     },
+    "interestingFacts": [
+      {
+        "topic": "Te cuento mis aventuras en el mundo de la consultoría",
+        "fact": "Memorias de un Consultor: https://www.memoriasdeunconsultor.com/"
+      }
+    ],
     "relevantLinks": [
-      {
-        "type": "linkedin",
-        "URL": "https://www.linkedin.com/in/aancos/"
-      },
-      {
-        "type": "github",
-        "URL": "https://github.com/aancos"
-      },
-      {
-        "type": "twitter",
-        "URL": "https://twitter.com/aancos"
-      },
       {
         "type": "other",
         "URL": "https://aancos.com/"
@@ -39,11 +36,27 @@
         "type": "other",
         "URL": "https://memoriasdeunconsultor.com/"
       }
-    ],
-    "interestingFacts": [
+    ]
+  },
+  "knowledge": {
+    "softSkills": [
       {
-        "topic": "Te cuento mis aventuras en el mundo de la consultoría",
-        "fact": "Memorias de un Consultor: https://www.memoriasdeunconsultor.com/"
+        "skill": {
+          "name": "Aprendizaje Continuo",
+          "type": "practice"
+        }
+      },
+      {
+        "skill": {
+          "name": "Autonomía en el aprendizaje",
+          "type": "practice"
+        }
+      },
+      {
+        "skill": {
+          "name": "Tolerancia a la incertidumbre",
+          "type": "practice"
+        }
       }
     ]
   },
@@ -51,8 +64,25 @@
     "contact": {
       "publicProfiles": [
         {
-          "type": "linkedin",
-          "URL": "https://www.linkedin.com/in/aancos/"
+          "URL": "https://www.linkedin.com/in/aancos/",
+          "type": "linkedin"
+        },
+        {
+          "URL": "https://github.com/aancos",
+          "type": "other"
+        },
+        {
+          "URL": "https://twitter.com/aancos",
+          "type": "other"
+        }
+      ],
+      "contactMails": [
+        "aancos@gmail.com"
+      ],
+      "phoneNumbers": [
+        {
+          "number": "607561443",
+          "countryCode": "+34"
         }
       ]
     },
@@ -62,7 +92,15 @@
           "name": "SAP",
           "type": "technology"
         }
+      ],
+      "preferredRoles": [
+        "IT Manager"
       ]
-    }
+    },
+    "status": "notAvailable"
+  },
+  "manfredSpecificData": {
+    "desiredJobDescription": "Me gusta rodearme de gente que sabe lo suficiente para poder enseñar a los demás y que es consciente de que puede aprender de otros.",
+    "goodPractices": "Aprendo y enseño desde hace más de 20 años."
   }
 }
