@@ -39,6 +39,14 @@
     ]
   },
   "knowledge": {
+    "hardSkills": [
+      {
+        "skill": {
+          "name": "SAP",
+          "type": "technology"
+        }
+      }
+    ],
     "softSkills": [
       {
         "skill": {
